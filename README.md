@@ -1,6 +1,6 @@
 # MPTS
 
-This repository implements the MPTS and baselines proposed in the paper [**"Beyond Any-Shot Adaptation: Predicting Optimization Outcome for Robustness Gains without Extra Pay"**](https://arxiv.org/abs/2501.11039).
+This repository implements the Model Predictive Task Sampling (MPTS) and baselines proposed in the paper [**"Beyond Any-Shot Adaptation: Predicting Optimization Outcome for Robustness Gains without Extra Pay"**](https://arxiv.org/abs/2501.11039).
 
 ![](./assets/mpts_overall_framework.png)
 
